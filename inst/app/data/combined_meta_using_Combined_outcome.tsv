@@ -1,0 +1,793 @@
+ID	donor_id	pre_post	Combined_outcome	Cancer_type_update	cell_type	study
+MEL001_Post_Favourable_MBM_T cell	MEL001	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL001_Post_Favourable_MBM_malignant cell	MEL001	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL002_Post_Favourable_MBM_T cell	MEL002	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL002_Post_Favourable_MBM_malignant cell	MEL002	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL004_Post_Unfavourable_MBM_T cell	MEL004	Post	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL004_Post_Unfavourable_MBM_malignant cell	MEL004	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL005_Pre_UT_MBM_T cell	MEL005	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL006_Post_Unfavourable_MBM_T cell	MEL006	Post	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL006_Post_Unfavourable_MBM_malignant cell	MEL006	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL008_Post_Unfavourable_MBM_T cell	MEL008	Post	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL008_Post_Unfavourable_MBM_malignant cell	MEL008	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL009_Post_Favourable_MBM_T cell	MEL009	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL009_Post_Favourable_MBM_malignant cell	MEL009	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL010_Post_Favourable_MBM_T cell	MEL010	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL010_Post_Favourable_MBM_malignant cell	MEL010	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL011_Post_Unfavourable_MBM_malignant cell	MEL011	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL014_Post_Favourable_MBM_T cell	MEL014	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL014_Post_Favourable_MBM_malignant cell	MEL014	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL015_Post_Favourable_MBM_T cell	MEL015	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL015_Post_Favourable_MBM_malignant cell	MEL015	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL016_Pre_UT_MBM_T cell	MEL016	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL016_Pre_UT_MBM_malignant cell	MEL016	Pre	UT	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL017_Post_Favourable_MBM_T cell	MEL017	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL017_Post_Favourable_MBM_malignant cell	MEL017	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL018_Pre_UT_MBM_T cell	MEL018	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL018_Pre_UT_MBM_malignant cell	MEL018	Pre	UT	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL019_Pre_Unfavourable_MBM_T cell	MEL019	Pre	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL019_Pre_Unfavourable_MBM_malignant cell	MEL019	Pre	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL020_Pre_UT_MBM_T cell	MEL020	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL020_Pre_UT_MBM_malignant cell	MEL020	Pre	UT	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL021_Post_Favourable_MBM_T cell	MEL021	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL021_Post_Favourable_MBM_malignant cell	MEL021	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL022_Post_Unfavourable_MBM_T cell	MEL022	Post	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL022_Post_Unfavourable_MBM_malignant cell	MEL022	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL023_Post_Unfavourable_MBM_T cell	MEL023	Post	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL024_Post_Favourable_MBM_T cell	MEL024	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL025_Post_Favourable_MBM_T cell	MEL025	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL025_Post_Favourable_MBM_B cell	MEL025	Post	Favourable	MBM	B cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL025_Post_Favourable_MBM_malignant cell	MEL025	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL026_Post_Unfavourable_MBM_malignant cell	MEL026	Post	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL027_Pre_Favourable_MBM_T cell	MEL027	Pre	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL027_Pre_Favourable_MBM_malignant cell	MEL027	Pre	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL028_Post_Favourable_MBM_T cell	MEL028	Post	Favourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL028_Post_Favourable_MBM_B cell	MEL028	Post	Favourable	MBM	B cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL028_Post_Favourable_MBM_malignant cell	MEL028	Post	Favourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL029_Pre_UT_MBM_T cell	MEL029	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL029_Pre_UT_MBM_microglial cell	MEL029	Pre	UT	MBM	microglial cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL029_Pre_UT_MBM_malignant cell	MEL029	Pre	UT	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL031_Pre_UT_MBM_T cell	MEL031	Pre	UT	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL031_Pre_UT_MBM_monocyte	MEL031	Pre	UT	MBM	monocyte	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL031_Pre_UT_MBM_malignant cell	MEL031	Pre	UT	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL033_Pre_Unfavourable_MBM_T cell	MEL033	Pre	Unfavourable	MBM	T cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+MEL033_Pre_Unfavourable_MBM_malignant cell	MEL033	Pre	Unfavourable	MBM	malignant cell	Alvarez_Breckenridge_MBM_PMID35706413_2022
+P55_Post_Favourable_ccRCC_lymphocyte	P55	Post	Favourable	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P55_Post_Favourable_ccRCC_myeloid cell	P55	Post	Favourable	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P55_Post_Favourable_ccRCC_malignant cell	P55	Post	Favourable	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+P76_Pre_UT_ccRCC_endothelial cell	P76	Pre	UT	ccRCC	endothelial cell	Bi_ccRCC_PMID33711272_2021
+P76_Pre_UT_ccRCC_lymphocyte	P76	Pre	UT	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P76_Pre_UT_ccRCC_myeloid cell	P76	Pre	UT	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P76_Pre_UT_ccRCC_malignant cell	P76	Pre	UT	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+P90_Pre_UT_ccRCC_lymphocyte	P90	Pre	UT	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P90_Pre_UT_ccRCC_myeloid cell	P90	Pre	UT	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P90_Pre_UT_ccRCC_malignant cell	P90	Pre	UT	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+P912_Post_n/a_ccRCC_lymphocyte	P912	Post	n/a	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P912_Post_n/a_ccRCC_myeloid cell	P912	Post	n/a	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P913_Post_Unfavourable_ccRCC_fibroblast	P913	Post	Unfavourable	ccRCC	fibroblast	Bi_ccRCC_PMID33711272_2021
+P913_Post_Unfavourable_ccRCC_endothelial cell	P913	Post	Unfavourable	ccRCC	endothelial cell	Bi_ccRCC_PMID33711272_2021
+P913_Post_Unfavourable_ccRCC_lymphocyte	P913	Post	Unfavourable	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P913_Post_Unfavourable_ccRCC_myeloid cell	P913	Post	Unfavourable	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P913_Post_Unfavourable_ccRCC_malignant cell	P913	Post	Unfavourable	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+P915_Post_Favourable_ccRCC_fibroblast	P915	Post	Favourable	ccRCC	fibroblast	Bi_ccRCC_PMID33711272_2021
+P915_Post_Favourable_ccRCC_endothelial cell	P915	Post	Favourable	ccRCC	endothelial cell	Bi_ccRCC_PMID33711272_2021
+P915_Post_Favourable_ccRCC_lymphocyte	P915	Post	Favourable	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P915_Post_Favourable_ccRCC_myeloid cell	P915	Post	Favourable	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P915_Post_Favourable_ccRCC_malignant cell	P915	Post	Favourable	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+P916_Pre_UT_ccRCC_lymphocyte	P916	Pre	UT	ccRCC	lymphocyte	Bi_ccRCC_PMID33711272_2021
+P916_Pre_UT_ccRCC_myeloid cell	P916	Pre	UT	ccRCC	myeloid cell	Bi_ccRCC_PMID33711272_2021
+P916_Pre_UT_ccRCC_malignant cell	P916	Pre	UT	ccRCC	malignant cell	Bi_ccRCC_PMID33711272_2021
+sc5rCMA070_Pre_Favourable_Mel_malignant cell	sc5rCMA070	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+sc5rCMA074_Post_Favourable_Mel_malignant cell	sc5rCMA074	Post	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+sc5rCMA136_Pre_Unfavourable_Mel_malignant cell	sc5rCMA136	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+sc5rCMA141_Pre_Favourable_Mel_malignant cell	sc5rCMA141	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+sc5rCMA144_Pre_Favourable_Mel_malignant cell	sc5rCMA144	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+sc5rCMA149_Post_Unfavourable_Mel_malignant cell	sc5rCMA149	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA036_Pre_Unfavourable_Mel_malignant cell	scrCMA036	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA038_Pre_Favourable_Mel_malignant cell	scrCMA038	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA040_Pre_Unfavourable_Mel_malignant cell	scrCMA040	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA041_Pre_Unfavourable_Mel_malignant cell	scrCMA041	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA046_Post_Unfavourable_Mel_malignant cell	scrCMA046	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA048_Post_Unfavourable_Mel_malignant cell	scrCMA048	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA049_Post_Unfavourable_Mel_malignant cell	scrCMA049	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA050_Post_Unfavourable_Mel_malignant cell	scrCMA050	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA054_Pre_Unfavourable_Mel_malignant cell	scrCMA054	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA063_Post_Unfavourable_Mel_malignant cell	scrCMA063	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA064_Post_Unfavourable_Mel_malignant cell	scrCMA064	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA072_Post_Favourable_Mel_malignant cell	scrCMA072	Post	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA076_Pre_Unfavourable_Mel_malignant cell	scrCMA076	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA077_Pre_Unfavourable_Mel_malignant cell	scrCMA077	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA087_Pre_Unfavourable_Mel_malignant cell	scrCMA087	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA089_Post_Unfavourable_Mel_malignant cell	scrCMA089	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA090_Pre_Unfavourable_Mel_malignant cell	scrCMA090	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA091_Post_Unfavourable_Mel_malignant cell	scrCMA091	Post	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA093_Pre_Favourable_Mel_malignant cell	scrCMA093	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA094_Pre_Favourable_Mel_malignant cell	scrCMA094	Pre	Favourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA120_Pre_Unfavourable_Mel_malignant cell	scrCMA120	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+scrCMA121_Pre_Unfavourable_Mel_malignant cell	scrCMA121	Pre	Unfavourable	Mel	malignant cell	Pozniak_Mel_PMID38181739_2024
+su001_Post_Favourable_BCC_fibroblast	su001	Post	Favourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_T cell	su001	Post	Favourable	BCC	T cell	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_macrophage	su001	Post	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_B cell	su001	Post	Favourable	BCC	B cell	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_dendritic cell	su001	Post	Favourable	BCC	dendritic cell	Yost_BCC_PMID31359002_2019
+"su001_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su001	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_plasma cell	su001	Post	Favourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_mature NK T cell	su001	Post	Favourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su001_Post_Favourable_BCC_regulatory T cell	su001	Post	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su001_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su001	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su001_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su001	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su001_Post_Favourable_BCC_plasmacytoid dendritic cell, human"	su001	Post	Favourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su001_Pre_Favourable_BCC_macrophage	su001	Pre	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su001_Pre_Favourable_BCC_CD4-positive, alpha-beta T cell"	su001	Pre	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su001_Pre_Favourable_BCC_mature NK T cell	su001	Pre	Favourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su001_Pre_Favourable_BCC_regulatory T cell	su001	Pre	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su001_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su001	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su001_Pre_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su001	Pre	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su001_Pre_Favourable_BCC_plasmacytoid dendritic cell, human"	su001	Pre	Favourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+"su002_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su002	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su002_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su002	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su002_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su002	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+su002_Pre_Favourable_BCC_macrophage	su002	Pre	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su002_Pre_Favourable_BCC_CD4-positive, alpha-beta T cell"	su002	Pre	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su002_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su002	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su002_Pre_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su002	Pre	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su003_Post_Favourable_BCC_macrophage	su003	Post	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su003_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su003	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su003_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su003	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su003_Post_Favourable_BCC_malignant cell	su003	Post	Favourable	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su003_Pre_Favourable_BCC_fibroblast	su003	Pre	Favourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su003_Pre_Favourable_BCC_endothelial cell	su003	Pre	Favourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su003_Pre_Favourable_BCC_macrophage	su003	Pre	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su003_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su003	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_fibroblast	su004	Post	Favourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_melanocyte	su004	Post	Favourable	BCC	melanocyte	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_macrophage	su004	Post	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su004_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su004	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_mature NK T cell	su004	Post	Favourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_regulatory T cell	su004	Post	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su004_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su004	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su004_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su004	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su004_Post_Favourable_BCC_plasmacytoid dendritic cell, human"	su004	Post	Favourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su004_Post_Favourable_BCC_malignant cell	su004	Post	Favourable	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su004_Pre_Favourable_BCC_macrophage	su004	Pre	Favourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su004_Pre_Favourable_BCC_CD4-positive, alpha-beta T cell"	su004	Pre	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su004_Pre_Favourable_BCC_mature NK T cell	su004	Pre	Favourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su004_Pre_Favourable_BCC_regulatory T cell	su004	Pre	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su004_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su004	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su004_Pre_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su004	Pre	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_fibroblast	su005	Post	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_T cell	su005	Post	Unfavourable	BCC	T cell	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_macrophage	su005	Post	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_B cell	su005	Post	Unfavourable	BCC	B cell	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_dendritic cell	su005	Post	Unfavourable	BCC	dendritic cell	Yost_BCC_PMID31359002_2019
+"su005_Post_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su005	Post	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_plasma cell	su005	Post	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_mature NK T cell	su005	Post	Unfavourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su005_Post_Unfavourable_BCC_regulatory T cell	su005	Post	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su005_Post_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su005	Post	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su005_Post_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su005	Post	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su005_Pre_UT_BCC_malignant cell	su005	Pre	UT	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_fibroblast	su005	Pre	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_endothelial cell	su005	Pre	Unfavourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_myofibroblast cell	su005	Pre	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_macrophage	su005	Pre	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_dendritic cell	su005	Pre	Unfavourable	BCC	dendritic cell	Yost_BCC_PMID31359002_2019
+"su005_Pre_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su005	Pre	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su005_Pre_Unfavourable_BCC_regulatory T cell	su005	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su005_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su005	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su005_Pre_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su005	Pre	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_fibroblast	su006	Post	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_endothelial cell	su006	Post	Unfavourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_melanocyte	su006	Post	Unfavourable	BCC	melanocyte	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_myofibroblast cell	su006	Post	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_macrophage	su006	Post	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_dendritic cell	su006	Post	Unfavourable	BCC	dendritic cell	Yost_BCC_PMID31359002_2019
+"su006_Post_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su006	Post	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_plasma cell	su006	Post	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_regulatory T cell	su006	Post	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su006_Post_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su006	Post	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su006_Post_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su006	Post	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su006_Post_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su006	Post	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+"su006_Post_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su006	Post	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su006_Post_Unfavourable_BCC_malignant cell	su006	Post	Unfavourable	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su006_Pre_UT_BCC_malignant cell	su006	Pre	UT	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_fibroblast	su006	Pre	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_T cell	su006	Pre	Unfavourable	BCC	T cell	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_myofibroblast cell	su006	Pre	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_macrophage	su006	Pre	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_B cell	su006	Pre	Unfavourable	BCC	B cell	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_dendritic cell	su006	Pre	Unfavourable	BCC	dendritic cell	Yost_BCC_PMID31359002_2019
+"su006_Pre_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su006	Pre	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_plasma cell	su006	Pre	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su006_Pre_Unfavourable_BCC_regulatory T cell	su006	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su006_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su006	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su006_Pre_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su006	Pre	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+"su007_Post_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su007	Post	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su007_Post_Unfavourable_BCC_mature NK T cell	su007	Post	Unfavourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+"su007_Post_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su007	Post	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su007_Pre_UT_BCC_malignant cell	su007	Pre	UT	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_fibroblast	su007	Pre	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_endothelial cell	su007	Pre	Unfavourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_melanocyte	su007	Pre	Unfavourable	BCC	melanocyte	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_myofibroblast cell	su007	Pre	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_macrophage	su007	Pre	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+"su007_Pre_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su007	Pre	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_plasma cell	su007	Pre	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_mature NK T cell	su007	Pre	Unfavourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su007_Pre_Unfavourable_BCC_regulatory T cell	su007	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su007_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su007	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su007_Pre_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su007	Pre	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_fibroblast	su008	Post	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_endothelial cell	su008	Post	Unfavourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_myofibroblast cell	su008	Post	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_macrophage	su008	Post	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_B cell	su008	Post	Unfavourable	BCC	B cell	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_plasma cell	su008	Post	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_mature NK T cell	su008	Post	Unfavourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_regulatory T cell	su008	Post	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su008_Post_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su008	Post	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+"su008_Post_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su008	Post	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su008_Post_Unfavourable_BCC_malignant cell	su008	Post	Unfavourable	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su008_Pre_UT_BCC_malignant cell	su008	Pre	UT	BCC	malignant cell	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_fibroblast	su008	Pre	Unfavourable	BCC	fibroblast	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_endothelial cell	su008	Pre	Unfavourable	BCC	endothelial cell	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_myofibroblast cell	su008	Pre	Unfavourable	BCC	myofibroblast cell	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_macrophage	su008	Pre	Unfavourable	BCC	macrophage	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_B cell	su008	Pre	Unfavourable	BCC	B cell	Yost_BCC_PMID31359002_2019
+"su008_Pre_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su008	Pre	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_plasma cell	su008	Pre	Unfavourable	BCC	plasma cell	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_mature NK T cell	su008	Pre	Unfavourable	BCC	mature NK T cell	Yost_BCC_PMID31359002_2019
+su008_Pre_Unfavourable_BCC_regulatory T cell	su008	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su008_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su008	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su008_Pre_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su008	Pre	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su008_Pre_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su008	Pre	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+"su008_Pre_Unfavourable_BCC_plasmacytoid dendritic cell, human"	su008	Pre	Unfavourable	BCC	"plasmacytoid dendritic cell, human"	Yost_BCC_PMID31359002_2019
+su009_Post_Favourable_BCC_T cell	su009	Post	Favourable	BCC	T cell	Yost_BCC_PMID31359002_2019
+"su009_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su009	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su009_Post_Favourable_BCC_regulatory T cell	su009	Post	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su009_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su009	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su009_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su009	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su009_Post_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su009	Post	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su009_Pre_Favourable_BCC_T cell	su009	Pre	Favourable	BCC	T cell	Yost_BCC_PMID31359002_2019
+su009_Pre_Favourable_BCC_regulatory T cell	su009	Pre	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su009_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su009	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su009_Pre_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su009	Pre	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su009_Pre_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su009	Pre	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+"su010_Post_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su010	Post	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su010_Post_Unfavourable_BCC_regulatory T cell	su010	Post	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su010_Post_Unfavourable_BCC_naive T cell	su010	Post	Unfavourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+su010_Post_Unfavourable_BCC_T-helper 17 cell	su010	Post	Unfavourable	BCC	T-helper 17 cell	Yost_BCC_PMID31359002_2019
+"su010_Post_Unfavourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su010	Post	Unfavourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su010_Post_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su010	Post	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su010_Post_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su010	Post	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su010_Post_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su010	Post	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su010_Post_Unfavourable_BCC_T follicular helper cell	su010	Post	Unfavourable	BCC	T follicular helper cell	Yost_BCC_PMID31359002_2019
+"su010_Pre_Unfavourable_BCC_CD4-positive, alpha-beta T cell"	su010	Pre	Unfavourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su010_Pre_Unfavourable_BCC_regulatory T cell	su010	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su010_Pre_Unfavourable_BCC_naive T cell	su010	Pre	Unfavourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+su010_Pre_Unfavourable_BCC_T-helper 17 cell	su010	Pre	Unfavourable	BCC	T-helper 17 cell	Yost_BCC_PMID31359002_2019
+"su010_Pre_Unfavourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su010	Pre	Unfavourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su010_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su010	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su010_Pre_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su010	Pre	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su010_Pre_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su010	Pre	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su010_Pre_Unfavourable_BCC_T follicular helper cell	su010	Pre	Unfavourable	BCC	T follicular helper cell	Yost_BCC_PMID31359002_2019
+su011_Post_Favourable_BCC_regulatory T cell	su011	Post	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su011_Post_Favourable_BCC_naive T cell	su011	Post	Favourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+"su011_Post_Favourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su011	Post	Favourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su011_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su011	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su011_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su011	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su011_Post_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su011	Post	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su011_Post_Favourable_BCC_T follicular helper cell	su011	Post	Favourable	BCC	T follicular helper cell	Yost_BCC_PMID31359002_2019
+su011_Pre_Favourable_BCC_regulatory T cell	su011	Pre	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su011_Pre_Favourable_BCC_naive T cell	su011	Pre	Favourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+"su011_Pre_Favourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su011	Pre	Favourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su011_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su011	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su011_Pre_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su011	Pre	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su011_Pre_Favourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su011	Pre	Favourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su011_Pre_Favourable_BCC_T follicular helper cell	su011	Pre	Favourable	BCC	T follicular helper cell	Yost_BCC_PMID31359002_2019
+"su012_Post_Favourable_BCC_CD4-positive, alpha-beta T cell"	su012	Post	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su012_Post_Favourable_BCC_regulatory T cell	su012	Post	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su012_Post_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su012	Post	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su012_Post_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su012	Post	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su012_Pre_Favourable_BCC_CD4-positive, alpha-beta T cell"	su012	Pre	Favourable	BCC	"CD4-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su012_Pre_Favourable_BCC_regulatory T cell	su012	Pre	Favourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+"su012_Pre_Favourable_BCC_central memory CD8-positive, alpha-beta T cell"	su012	Pre	Favourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su012_Pre_Favourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su012	Pre	Favourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su013_Post_Unfavourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su013	Post	Unfavourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su013_Pre_Unfavourable_BCC_regulatory T cell	su013	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su013_Pre_Unfavourable_BCC_naive T cell	su013	Pre	Unfavourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+"su013_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su013	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su013_Pre_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su013	Pre	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su013_Pre_Unfavourable_BCC_activated CD8-positive, alpha-beta T cell, human"	su013	Pre	Unfavourable	BCC	"activated CD8-positive, alpha-beta T cell, human"	Yost_BCC_PMID31359002_2019
+su013_Pre_Unfavourable_BCC_T follicular helper cell	su013	Pre	Unfavourable	BCC	T follicular helper cell	Yost_BCC_PMID31359002_2019
+su014_Post_Unfavourable_BCC_regulatory T cell	su014	Post	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su014_Post_Unfavourable_BCC_naive T cell	su014	Post	Unfavourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+su014_Post_Unfavourable_BCC_T-helper 17 cell	su014	Post	Unfavourable	BCC	T-helper 17 cell	Yost_BCC_PMID31359002_2019
+"su014_Post_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su014	Post	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su014_Post_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su014	Post	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su014_Post_Unfavourable_BCC_effector CD8-positive, alpha-beta T cell"	su014	Post	Unfavourable	BCC	"effector CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+su014_Pre_Unfavourable_BCC_regulatory T cell	su014	Pre	Unfavourable	BCC	regulatory T cell	Yost_BCC_PMID31359002_2019
+su014_Pre_Unfavourable_BCC_naive T cell	su014	Pre	Unfavourable	BCC	naive T cell	Yost_BCC_PMID31359002_2019
+su014_Pre_Unfavourable_BCC_T-helper 17 cell	su014	Pre	Unfavourable	BCC	T-helper 17 cell	Yost_BCC_PMID31359002_2019
+"su014_Pre_Unfavourable_BCC_naive thymus-derived CD8-positive, alpha-beta T cell"	su014	Pre	Unfavourable	BCC	"naive thymus-derived CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su014_Pre_Unfavourable_BCC_central memory CD8-positive, alpha-beta T cell"	su014	Pre	Unfavourable	BCC	"central memory CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+"su014_Pre_Unfavourable_BCC_CD8-positive, CD28-negative, alpha-beta regulatory T cell"	su014	Pre	Unfavourable	BCC	"CD8-positive, CD28-negative, alpha-beta regulatory T cell"	Yost_BCC_PMID31359002_2019
+"su014_Pre_Unfavourable_BCC_effector CD8-positive, alpha-beta T cell"	su014	Pre	Unfavourable	BCC	"effector CD8-positive, alpha-beta T cell"	Yost_BCC_PMID31359002_2019
+BIOKEY-1_Post_n/a_TNBC_fibroblast	BIOKEY-1	Post	n/a	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Post_n/a_TNBC_T cell	BIOKEY-1	Post	n/a	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Post_n/a_TNBC_endothelial cell	BIOKEY-1	Post	n/a	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Post_n/a_TNBC_B cell	BIOKEY-1	Post	n/a	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Post_n/a_TNBC_myeloid cell	BIOKEY-1	Post	n/a	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Post_n/a_TNBC_malignant cell	BIOKEY-1	Post	n/a	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_fibroblast	BIOKEY-1	Pre	n/a	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_T cell	BIOKEY-1	Pre	n/a	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_endothelial cell	BIOKEY-1	Pre	n/a	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_B cell	BIOKEY-1	Pre	n/a	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_myeloid cell	BIOKEY-1	Pre	n/a	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-1_Pre_n/a_TNBC_malignant cell	BIOKEY-1	Pre	n/a	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_fibroblast	BIOKEY-2	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_T cell	BIOKEY-2	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-2	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_B cell	BIOKEY-2	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-2	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-2_Post_Unfavourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-2	Post	Unfavourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Post_Unfavourable_TNBC_malignant cell	BIOKEY-2	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-2	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_T cell	BIOKEY-2	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-2	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_B cell	BIOKEY-2	Pre	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-2	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-2_Pre_Unfavourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-2	Pre	Unfavourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-2_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-2	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_fibroblast	BIOKEY-3	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_T cell	BIOKEY-3	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_mast cell	BIOKEY-3	Post	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_endothelial cell	BIOKEY-3	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_myeloid cell	BIOKEY-3	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Post_Unfavourable_ER+_malignant cell	BIOKEY-3	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_fibroblast	BIOKEY-3	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_T cell	BIOKEY-3	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_mast cell	BIOKEY-3	Pre	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-3	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_B cell	BIOKEY-3	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-3	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-3_Pre_Unfavourable_ER+_malignant cell	BIOKEY-3	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_fibroblast	BIOKEY-4	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_T cell	BIOKEY-4	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_endothelial cell	BIOKEY-4	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_B cell	BIOKEY-4	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_myeloid cell	BIOKEY-4	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-4_Post_Unfavourable_ER+_plasmacytoid dendritic cell, human"	BIOKEY-4	Post	Unfavourable	ER+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Post_Unfavourable_ER+_malignant cell	BIOKEY-4	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_fibroblast	BIOKEY-4	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_T cell	BIOKEY-4	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-4	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_B cell	BIOKEY-4	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-4	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-4_Pre_Unfavourable_ER+_plasmacytoid dendritic cell, human"	BIOKEY-4	Pre	Unfavourable	ER+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-4_Pre_Unfavourable_ER+_malignant cell	BIOKEY-4	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_fibroblast	BIOKEY-5	Post	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_T cell	BIOKEY-5	Post	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_mast cell	BIOKEY-5	Post	Favourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_endothelial cell	BIOKEY-5	Post	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_B cell	BIOKEY-5	Post	Favourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Post_Favourable_ER+_myeloid cell	BIOKEY-5	Post	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_fibroblast	BIOKEY-5	Pre	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_T cell	BIOKEY-5	Pre	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_mast cell	BIOKEY-5	Pre	Favourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_endothelial cell	BIOKEY-5	Pre	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_B cell	BIOKEY-5	Pre	Favourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_myeloid cell	BIOKEY-5	Pre	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-5_Pre_Favourable_ER+_malignant cell	BIOKEY-5	Pre	Favourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_fibroblast	BIOKEY-6	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_T cell	BIOKEY-6	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_endothelial cell	BIOKEY-6	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_B cell	BIOKEY-6	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_myeloid cell	BIOKEY-6	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Post_Unfavourable_ER+_malignant cell	BIOKEY-6	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_fibroblast	BIOKEY-6	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_T cell	BIOKEY-6	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_mast cell	BIOKEY-6	Pre	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-6	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_B cell	BIOKEY-6	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-6	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-6_Pre_Unfavourable_ER+_malignant cell	BIOKEY-6	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Post_Unfavourable_ER+_fibroblast	BIOKEY-7	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Post_Unfavourable_ER+_T cell	BIOKEY-7	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Post_Unfavourable_ER+_mast cell	BIOKEY-7	Post	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Post_Unfavourable_ER+_myeloid cell	BIOKEY-7	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Post_Unfavourable_ER+_malignant cell	BIOKEY-7	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Pre_Unfavourable_ER+_fibroblast	BIOKEY-7	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Pre_Unfavourable_ER+_T cell	BIOKEY-7	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-7	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-7_Pre_Unfavourable_ER+_malignant cell	BIOKEY-7	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Post_Unfavourable_TNBC_T cell	BIOKEY-8	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Post_Unfavourable_TNBC_B cell	BIOKEY-8	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-8	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Post_Unfavourable_TNBC_malignant cell	BIOKEY-8	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Pre_Unfavourable_TNBC_T cell	BIOKEY-8	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-8	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-8_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-8	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_fibroblast	BIOKEY-9	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_T cell	BIOKEY-9	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-9	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_B cell	BIOKEY-9	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-9	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Post_Unfavourable_TNBC_malignant cell	BIOKEY-9	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-9	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_T cell	BIOKEY-9	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-9	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_B cell	BIOKEY-9	Pre	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-9	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-9_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-9	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_fibroblast	BIOKEY-10	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_T cell	BIOKEY-10	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_endothelial cell	BIOKEY-10	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_B cell	BIOKEY-10	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_myeloid cell	BIOKEY-10	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Post_Favourable_TNBC_malignant cell	BIOKEY-10	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_fibroblast	BIOKEY-10	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_T cell	BIOKEY-10	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_mast cell	BIOKEY-10	Pre	Favourable	TNBC	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_endothelial cell	BIOKEY-10	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_B cell	BIOKEY-10	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_myeloid cell	BIOKEY-10	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-10_Pre_Favourable_TNBC_malignant cell	BIOKEY-10	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_fibroblast	BIOKEY-11	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_T cell	BIOKEY-11	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_endothelial cell	BIOKEY-11	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_B cell	BIOKEY-11	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_myeloid cell	BIOKEY-11	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-11_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-11	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Post_Favourable_TNBC_malignant cell	BIOKEY-11	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Pre_Favourable_TNBC_fibroblast	BIOKEY-11	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Pre_Favourable_TNBC_T cell	BIOKEY-11	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Pre_Favourable_TNBC_B cell	BIOKEY-11	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Pre_Favourable_TNBC_myeloid cell	BIOKEY-11	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-11_Pre_Favourable_TNBC_malignant cell	BIOKEY-11	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_fibroblast	BIOKEY-12	Post	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_T cell	BIOKEY-12	Post	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_mast cell	BIOKEY-12	Post	Favourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_endothelial cell	BIOKEY-12	Post	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_B cell	BIOKEY-12	Post	Favourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_myeloid cell	BIOKEY-12	Post	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-12_Post_Favourable_ER+_plasmacytoid dendritic cell, human"	BIOKEY-12	Post	Favourable	ER+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Post_Favourable_ER+_malignant cell	BIOKEY-12	Post	Favourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_fibroblast	BIOKEY-12	Pre	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_T cell	BIOKEY-12	Pre	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_mast cell	BIOKEY-12	Pre	Favourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_endothelial cell	BIOKEY-12	Pre	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_B cell	BIOKEY-12	Pre	Favourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_myeloid cell	BIOKEY-12	Pre	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-12_Pre_Favourable_ER+_malignant cell	BIOKEY-12	Pre	Favourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_fibroblast	BIOKEY-13	Post	n/a	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_T cell	BIOKEY-13	Post	n/a	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_endothelial cell	BIOKEY-13	Post	n/a	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_B cell	BIOKEY-13	Post	n/a	HER2+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_myeloid cell	BIOKEY-13	Post	n/a	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Post_n/a_HER2+_malignant cell	BIOKEY-13	Post	n/a	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_fibroblast	BIOKEY-13	Pre	n/a	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_T cell	BIOKEY-13	Pre	n/a	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_endothelial cell	BIOKEY-13	Pre	n/a	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_B cell	BIOKEY-13	Pre	n/a	HER2+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_myeloid cell	BIOKEY-13	Pre	n/a	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-13_Pre_n/a_HER2+_plasmacytoid dendritic cell, human"	BIOKEY-13	Pre	n/a	HER2+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-13_Pre_n/a_HER2+_malignant cell	BIOKEY-13	Pre	n/a	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_fibroblast	BIOKEY-14	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_T cell	BIOKEY-14	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-14	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_B cell	BIOKEY-14	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-14	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Post_Unfavourable_TNBC_malignant cell	BIOKEY-14	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-14	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_T cell	BIOKEY-14	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-14	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_B cell	BIOKEY-14	Pre	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-14	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-14_Pre_Unfavourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-14	Pre	Unfavourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-14_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-14	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_fibroblast	BIOKEY-15	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_T cell	BIOKEY-15	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_endothelial cell	BIOKEY-15	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_B cell	BIOKEY-15	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_myeloid cell	BIOKEY-15	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-15_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-15	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Post_Favourable_TNBC_malignant cell	BIOKEY-15	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_fibroblast	BIOKEY-15	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_T cell	BIOKEY-15	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_endothelial cell	BIOKEY-15	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_B cell	BIOKEY-15	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_myeloid cell	BIOKEY-15	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-15_Pre_Favourable_TNBC_malignant cell	BIOKEY-15	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_fibroblast	BIOKEY-16	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_T cell	BIOKEY-16	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_endothelial cell	BIOKEY-16	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_B cell	BIOKEY-16	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_myeloid cell	BIOKEY-16	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-16_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-16	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Post_Favourable_TNBC_malignant cell	BIOKEY-16	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_fibroblast	BIOKEY-16	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_T cell	BIOKEY-16	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_endothelial cell	BIOKEY-16	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_B cell	BIOKEY-16	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_myeloid cell	BIOKEY-16	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-16_Pre_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-16	Pre	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-16_Pre_Favourable_TNBC_malignant cell	BIOKEY-16	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Post_Unfavourable_ER+_fibroblast	BIOKEY-17	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Post_Unfavourable_ER+_T cell	BIOKEY-17	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Post_Unfavourable_ER+_endothelial cell	BIOKEY-17	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Post_Unfavourable_ER+_myeloid cell	BIOKEY-17	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Post_Unfavourable_ER+_malignant cell	BIOKEY-17	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Pre_Unfavourable_ER+_fibroblast	BIOKEY-17	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Pre_Unfavourable_ER+_T cell	BIOKEY-17	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-17	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-17	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-17_Pre_Unfavourable_ER+_malignant cell	BIOKEY-17	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_fibroblast	BIOKEY-18	Post	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_T cell	BIOKEY-18	Post	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_endothelial cell	BIOKEY-18	Post	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_B cell	BIOKEY-18	Post	Favourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_myeloid cell	BIOKEY-18	Post	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-18_Post_Favourable_ER+_plasmacytoid dendritic cell, human"	BIOKEY-18	Post	Favourable	ER+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Post_Favourable_ER+_malignant cell	BIOKEY-18	Post	Favourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_fibroblast	BIOKEY-18	Pre	Favourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_T cell	BIOKEY-18	Pre	Favourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_mast cell	BIOKEY-18	Pre	Favourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_endothelial cell	BIOKEY-18	Pre	Favourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_myeloid cell	BIOKEY-18	Pre	Favourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-18_Pre_Favourable_ER+_malignant cell	BIOKEY-18	Pre	Favourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_fibroblast	BIOKEY-19	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_T cell	BIOKEY-19	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_mast cell	BIOKEY-19	Post	Unfavourable	TNBC	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-19	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_B cell	BIOKEY-19	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-19	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Post_Unfavourable_TNBC_malignant cell	BIOKEY-19	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-19	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_T cell	BIOKEY-19	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-19	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_B cell	BIOKEY-19	Pre	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-19	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-19_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-19	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_fibroblast	BIOKEY-20	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_T cell	BIOKEY-20	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_endothelial cell	BIOKEY-20	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_B cell	BIOKEY-20	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_myeloid cell	BIOKEY-20	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Post_Unfavourable_ER+_malignant cell	BIOKEY-20	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Pre_Unfavourable_ER+_fibroblast	BIOKEY-20	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Pre_Unfavourable_ER+_T cell	BIOKEY-20	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-20	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-20_Pre_Unfavourable_ER+_malignant cell	BIOKEY-20	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Post_Unfavourable_ER+_fibroblast	BIOKEY-21	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Post_Unfavourable_ER+_T cell	BIOKEY-21	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Post_Unfavourable_ER+_endothelial cell	BIOKEY-21	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Post_Unfavourable_ER+_myeloid cell	BIOKEY-21	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Post_Unfavourable_ER+_malignant cell	BIOKEY-21	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_fibroblast	BIOKEY-21	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_T cell	BIOKEY-21	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-21	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_B cell	BIOKEY-21	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-21	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-21_Pre_Unfavourable_ER+_malignant cell	BIOKEY-21	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Post_Unfavourable_ER+_fibroblast	BIOKEY-22	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Post_Unfavourable_ER+_T cell	BIOKEY-22	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Post_Unfavourable_ER+_endothelial cell	BIOKEY-22	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Post_Unfavourable_ER+_myeloid cell	BIOKEY-22	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Post_Unfavourable_ER+_malignant cell	BIOKEY-22	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Pre_Unfavourable_ER+_fibroblast	BIOKEY-22	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Pre_Unfavourable_ER+_T cell	BIOKEY-22	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-22	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-22	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-22_Pre_Unfavourable_ER+_malignant cell	BIOKEY-22	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_fibroblast	BIOKEY-23	Post	Unfavourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_T cell	BIOKEY-23	Post	Unfavourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_endothelial cell	BIOKEY-23	Post	Unfavourable	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_B cell	BIOKEY-23	Post	Unfavourable	HER2+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_myeloid cell	BIOKEY-23	Post	Unfavourable	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Post_Unfavourable_HER2+_malignant cell	BIOKEY-23	Post	Unfavourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Pre_Unfavourable_HER2+_fibroblast	BIOKEY-23	Pre	Unfavourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Pre_Unfavourable_HER2+_T cell	BIOKEY-23	Pre	Unfavourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Pre_Unfavourable_HER2+_endothelial cell	BIOKEY-23	Pre	Unfavourable	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-23_Pre_Unfavourable_HER2+_malignant cell	BIOKEY-23	Pre	Unfavourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_fibroblast	BIOKEY-24	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_T cell	BIOKEY-24	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_endothelial cell	BIOKEY-24	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_B cell	BIOKEY-24	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_myeloid cell	BIOKEY-24	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Post_Unfavourable_ER+_malignant cell	BIOKEY-24	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_fibroblast	BIOKEY-24	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_T cell	BIOKEY-24	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_mast cell	BIOKEY-24	Pre	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-24	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_B cell	BIOKEY-24	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-24	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-24_Pre_Unfavourable_ER+_malignant cell	BIOKEY-24	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Post_Unfavourable_TNBC_fibroblast	BIOKEY-25	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Post_Unfavourable_TNBC_T cell	BIOKEY-25	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Post_Unfavourable_TNBC_B cell	BIOKEY-25	Post	Unfavourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-25	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Post_Unfavourable_TNBC_malignant cell	BIOKEY-25	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-25	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Pre_Unfavourable_TNBC_T cell	BIOKEY-25	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-25	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-25_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-25	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Post_Unfavourable_TNBC_fibroblast	BIOKEY-26	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Post_Unfavourable_TNBC_T cell	BIOKEY-26	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-26	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Post_Unfavourable_TNBC_malignant cell	BIOKEY-26	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-26	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Pre_Unfavourable_TNBC_T cell	BIOKEY-26	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-26	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-26	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-26_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-26	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_fibroblast	BIOKEY-27	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_T cell	BIOKEY-27	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_endothelial cell	BIOKEY-27	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_B cell	BIOKEY-27	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_myeloid cell	BIOKEY-27	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Post_Unfavourable_ER+_malignant cell	BIOKEY-27	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_fibroblast	BIOKEY-27	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_T cell	BIOKEY-27	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-27	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_B cell	BIOKEY-27	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-27	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-27_Pre_Unfavourable_ER+_malignant cell	BIOKEY-27	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Post_Favourable_HER2+_fibroblast	BIOKEY-28	Post	Favourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Post_Favourable_HER2+_T cell	BIOKEY-28	Post	Favourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Post_Favourable_HER2+_B cell	BIOKEY-28	Post	Favourable	HER2+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Post_Favourable_HER2+_myeloid cell	BIOKEY-28	Post	Favourable	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-28_Post_Favourable_HER2+_plasmacytoid dendritic cell, human"	BIOKEY-28	Post	Favourable	HER2+	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Post_Favourable_HER2+_malignant cell	BIOKEY-28	Post	Favourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_fibroblast	BIOKEY-28	Pre	Favourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_T cell	BIOKEY-28	Pre	Favourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_endothelial cell	BIOKEY-28	Pre	Favourable	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_B cell	BIOKEY-28	Pre	Favourable	HER2+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_myeloid cell	BIOKEY-28	Pre	Favourable	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-28_Pre_Favourable_HER2+_malignant cell	BIOKEY-28	Pre	Favourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Post_Unfavourable_ER+_fibroblast	BIOKEY-29	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Post_Unfavourable_ER+_T cell	BIOKEY-29	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Post_Unfavourable_ER+_endothelial cell	BIOKEY-29	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Post_Unfavourable_ER+_B cell	BIOKEY-29	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Post_Unfavourable_ER+_malignant cell	BIOKEY-29	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_fibroblast	BIOKEY-29	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_T cell	BIOKEY-29	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-29	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_B cell	BIOKEY-29	Pre	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-29	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-29_Pre_Unfavourable_ER+_malignant cell	BIOKEY-29	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_fibroblast	BIOKEY-30	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_T cell	BIOKEY-30	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_mast cell	BIOKEY-30	Post	Unfavourable	ER+	mast cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_endothelial cell	BIOKEY-30	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_B cell	BIOKEY-30	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_myeloid cell	BIOKEY-30	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Post_Unfavourable_ER+_malignant cell	BIOKEY-30	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Pre_Unfavourable_ER+_fibroblast	BIOKEY-30	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Pre_Unfavourable_ER+_T cell	BIOKEY-30	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-30	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-30	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-30_Pre_Unfavourable_ER+_malignant cell	BIOKEY-30	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_fibroblast	BIOKEY-31	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_T cell	BIOKEY-31	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_endothelial cell	BIOKEY-31	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_B cell	BIOKEY-31	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_myeloid cell	BIOKEY-31	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-31_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-31	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Post_Favourable_TNBC_malignant cell	BIOKEY-31	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Pre_Favourable_TNBC_fibroblast	BIOKEY-31	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Pre_Favourable_TNBC_T cell	BIOKEY-31	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Pre_Favourable_TNBC_B cell	BIOKEY-31	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Pre_Favourable_TNBC_myeloid cell	BIOKEY-31	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-31_Pre_Favourable_TNBC_malignant cell	BIOKEY-31	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Post_Unfavourable_ER+_fibroblast	BIOKEY-32	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Post_Unfavourable_ER+_T cell	BIOKEY-32	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Post_Unfavourable_ER+_endothelial cell	BIOKEY-32	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Post_Unfavourable_ER+_myeloid cell	BIOKEY-32	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Post_Unfavourable_ER+_malignant cell	BIOKEY-32	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Pre_Unfavourable_ER+_fibroblast	BIOKEY-32	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Pre_Unfavourable_ER+_T cell	BIOKEY-32	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-32_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-32	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_fibroblast	BIOKEY-33	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_T cell	BIOKEY-33	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_endothelial cell	BIOKEY-33	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_B cell	BIOKEY-33	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_myeloid cell	BIOKEY-33	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Post_Favourable_TNBC_malignant cell	BIOKEY-33	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_fibroblast	BIOKEY-33	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_T cell	BIOKEY-33	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_endothelial cell	BIOKEY-33	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_B cell	BIOKEY-33	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_myeloid cell	BIOKEY-33	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-33_Pre_Favourable_TNBC_malignant cell	BIOKEY-33	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Post_Unfavourable_TNBC_fibroblast	BIOKEY-34	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Post_Unfavourable_TNBC_T cell	BIOKEY-34	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-34	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-34	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-34	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Pre_Unfavourable_TNBC_T cell	BIOKEY-34	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-34	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-34_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-34	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_fibroblast	BIOKEY-35	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_T cell	BIOKEY-35	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_endothelial cell	BIOKEY-35	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_B cell	BIOKEY-35	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_myeloid cell	BIOKEY-35	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-35_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-35	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Post_Favourable_TNBC_malignant cell	BIOKEY-35	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_fibroblast	BIOKEY-35	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_T cell	BIOKEY-35	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_endothelial cell	BIOKEY-35	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_B cell	BIOKEY-35	Pre	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_myeloid cell	BIOKEY-35	Pre	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-35_Pre_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-35	Pre	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-35_Pre_Favourable_TNBC_malignant cell	BIOKEY-35	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_fibroblast	BIOKEY-36	Post	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_T cell	BIOKEY-36	Post	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_endothelial cell	BIOKEY-36	Post	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_B cell	BIOKEY-36	Post	Favourable	TNBC	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_myeloid cell	BIOKEY-36	Post	Favourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+"BIOKEY-36_Post_Favourable_TNBC_plasmacytoid dendritic cell, human"	BIOKEY-36	Post	Favourable	TNBC	"plasmacytoid dendritic cell, human"	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Post_Favourable_TNBC_malignant cell	BIOKEY-36	Post	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Pre_Favourable_TNBC_fibroblast	BIOKEY-36	Pre	Favourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Pre_Favourable_TNBC_T cell	BIOKEY-36	Pre	Favourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Pre_Favourable_TNBC_endothelial cell	BIOKEY-36	Pre	Favourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-36_Pre_Favourable_TNBC_malignant cell	BIOKEY-36	Pre	Favourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_fibroblast	BIOKEY-37	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_T cell	BIOKEY-37	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_endothelial cell	BIOKEY-37	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_B cell	BIOKEY-37	Post	Unfavourable	ER+	B cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_myeloid cell	BIOKEY-37	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Post_Unfavourable_ER+_malignant cell	BIOKEY-37	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Pre_Unfavourable_ER+_fibroblast	BIOKEY-37	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Pre_Unfavourable_ER+_T cell	BIOKEY-37	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-37	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-37	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-37_Pre_Unfavourable_ER+_malignant cell	BIOKEY-37	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Post_Unfavourable_HER2+_fibroblast	BIOKEY-38	Post	Unfavourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Post_Unfavourable_HER2+_T cell	BIOKEY-38	Post	Unfavourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Post_Unfavourable_HER2+_endothelial cell	BIOKEY-38	Post	Unfavourable	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Post_Unfavourable_HER2+_myeloid cell	BIOKEY-38	Post	Unfavourable	HER2+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Post_Unfavourable_HER2+_malignant cell	BIOKEY-38	Post	Unfavourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Pre_Unfavourable_HER2+_fibroblast	BIOKEY-38	Pre	Unfavourable	HER2+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Pre_Unfavourable_HER2+_T cell	BIOKEY-38	Pre	Unfavourable	HER2+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Pre_Unfavourable_HER2+_endothelial cell	BIOKEY-38	Pre	Unfavourable	HER2+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-38_Pre_Unfavourable_HER2+_malignant cell	BIOKEY-38	Pre	Unfavourable	HER2+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Post_Unfavourable_TNBC_fibroblast	BIOKEY-39	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Post_Unfavourable_TNBC_T cell	BIOKEY-39	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-39	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-39	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Post_Unfavourable_TNBC_malignant cell	BIOKEY-39	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-39	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Pre_Unfavourable_TNBC_T cell	BIOKEY-39	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-39	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-39_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-39	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Post_Unfavourable_ER+_fibroblast	BIOKEY-40	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Post_Unfavourable_ER+_T cell	BIOKEY-40	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Post_Unfavourable_ER+_endothelial cell	BIOKEY-40	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Post_Unfavourable_ER+_myeloid cell	BIOKEY-40	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Pre_Unfavourable_ER+_fibroblast	BIOKEY-40	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Pre_Unfavourable_ER+_T cell	BIOKEY-40	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-40	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-40	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-40_Pre_Unfavourable_ER+_malignant cell	BIOKEY-40	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Post_Unfavourable_TNBC_fibroblast	BIOKEY-41	Post	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Post_Unfavourable_TNBC_T cell	BIOKEY-41	Post	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Post_Unfavourable_TNBC_endothelial cell	BIOKEY-41	Post	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Post_Unfavourable_TNBC_myeloid cell	BIOKEY-41	Post	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Post_Unfavourable_TNBC_malignant cell	BIOKEY-41	Post	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Pre_Unfavourable_TNBC_fibroblast	BIOKEY-41	Pre	Unfavourable	TNBC	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Pre_Unfavourable_TNBC_T cell	BIOKEY-41	Pre	Unfavourable	TNBC	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Pre_Unfavourable_TNBC_endothelial cell	BIOKEY-41	Pre	Unfavourable	TNBC	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Pre_Unfavourable_TNBC_myeloid cell	BIOKEY-41	Pre	Unfavourable	TNBC	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-41_Pre_Unfavourable_TNBC_malignant cell	BIOKEY-41	Pre	Unfavourable	TNBC	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Post_Unfavourable_ER+_fibroblast	BIOKEY-42	Post	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Post_Unfavourable_ER+_T cell	BIOKEY-42	Post	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Post_Unfavourable_ER+_endothelial cell	BIOKEY-42	Post	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Post_Unfavourable_ER+_myeloid cell	BIOKEY-42	Post	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Post_Unfavourable_ER+_malignant cell	BIOKEY-42	Post	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Pre_Unfavourable_ER+_fibroblast	BIOKEY-42	Pre	Unfavourable	ER+	fibroblast	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Pre_Unfavourable_ER+_T cell	BIOKEY-42	Pre	Unfavourable	ER+	T cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Pre_Unfavourable_ER+_endothelial cell	BIOKEY-42	Pre	Unfavourable	ER+	endothelial cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Pre_Unfavourable_ER+_myeloid cell	BIOKEY-42	Pre	Unfavourable	ER+	myeloid cell	Bassez_Breast_PMID33958794_2021
+BIOKEY-42_Pre_Unfavourable_ER+_malignant cell	BIOKEY-42	Pre	Unfavourable	ER+	malignant cell	Bassez_Breast_PMID33958794_2021
