@@ -1,7 +1,7 @@
 #' Launch the ICB Response Explorer Shiny app
 #'
-#' @param data_dir Optional path to the external data directory that contains the
-#'   files formerly bundled under `inst/app/data`.
+#' @param data_dir Optional path to a data directory that overrides the bundled
+#'   package data under `inst/app/data`.
 #' @param launch.browser Logical; passed to [shiny::runApp()].
 #' @param ... Additional arguments passed to [shiny::runApp()].
 #'
@@ -56,9 +56,19 @@ run_app <- function(data_dir = NULL, launch.browser = TRUE, ...) {
 
   old_data_dir <- getOption("ICBResponse.data_dir")
   on.exit(options(ICBResponse.data_dir = old_data_dir), add = TRUE)
-  if (nzchar(resolved_data_dir)) {
-    options(ICBResponse.data_dir = resolved_data_dir)
+  if (!nzchar(resolved_data_dir)) {
+    stop(
+      paste(
+        "Could not locate the ICBResponse data directory.",
+        "Reinstall the package with bundled `inst/app/data`,",
+        "or supply `data_dir` explicitly."
+      ),
+      call. = FALSE
+    )
   }
+
+  options(ICBResponse.data_dir = resolved_data_dir)
 
   shiny::runApp(appDir = app_dir, launch.browser = launch.browser, ...)
 }
+
