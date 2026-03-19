@@ -1,0 +1,26 @@
+Package: ICBResponse
+Type: Package
+Title: ICB Response Explorer Shiny Application
+Version: 0.1.0
+Authors@R: person(given = "Ranran", family = "Tao", role = c("aut", "cre"), email = "Ranran.Tao@moffitt.org")
+Author: Ranran Tao [aut, cre]
+Maintainer: Ranran Tao <Ranran.Tao@moffitt.org>
+Description: Shiny application package for exploring immunotherapy response
+    at patient-level and cell-level across PAN-T, CAR-T, and CRISPR analyses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    shiny
+Suggests:
+    shinyjqui,
+    tidyverse,
+    data.table,
+    DT,
+    scales,
+    ggpubr,
+    memoise,
+    cachem,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
