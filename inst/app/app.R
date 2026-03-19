@@ -121,7 +121,8 @@ get_data_root <- function() {
   stop(
     paste(
       "ICBResponse data directory not found.",
-      "Supply `data_dir` to ICBResponse::run_app(),",
+      "The installed package should include bundled data under `inst/app/data`.",
+      "If you built or installed a stripped package, supply `data_dir` to ICBResponse::run_app(),",
       "set option `ICBResponse.data_dir`,",
       "or set env var `ICBResponse_DATA_DIR`."
     ),
